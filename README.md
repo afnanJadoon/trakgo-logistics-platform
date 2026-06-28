@@ -9,8 +9,8 @@
 > to digitize cargo operations.
 
 ## Team
-- Muhammad Ahsan Ali Shah (241852)
 - Muhammad Afnan Jadoon (241873)  
+- Muhammad Ahsan Ali Shah (241852)
 - Muhammad Abdul Hanan (241789)
 
 ## Document Contents
